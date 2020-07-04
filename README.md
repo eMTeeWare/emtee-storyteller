@@ -1,6 +1,5 @@
 # emtee-storyteller
 An adventure game creation and execution environment in early conception phase.
 
-![Savegame mockup](e-st-savegame)
-
+## Options for saving and loading executed games
 ![Savegame mockup](e-st-savegame.png)
