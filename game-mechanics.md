@@ -16,3 +16,5 @@
 - "Sudden Death"
 - NPCs
   - fast gar keine Interaktion
+- Interface
+  - klickbare Hauptwörter in Beschreibungstexten
