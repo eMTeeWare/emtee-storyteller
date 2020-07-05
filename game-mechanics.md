@@ -4,7 +4,15 @@
   - als Tippgeber
   - als Befehlsempfänger bei Zwei-Personen-Rätseln
 - Inventar begrenzt
+  - nach Anzahl
   - nur ein Buch zur Zeit
 - verschiedene Zeitalter
   - Begleiter wechseln
   - Rauminhalte werden ergänzt
+- Zeit vergeht
+  - Kerze brennt 900 Züge
+  - 56 Stunden insgesamt (wie verhält sich das zu den Runden?)
+- Bücher als Ingame-Hilfe / Schlagwort-Suchfunktion
+- "Sudden Death"
+- NPCs
+  - fast gar keine Interaktion
