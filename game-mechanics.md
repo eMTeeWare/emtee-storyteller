@@ -19,3 +19,8 @@
 - Interface
   - klickbare Hauptwörter in Beschreibungstexten
 - "Cutscenes" durch automatische Steuerung der Spielfigur
+
+# Wonderland
+- Interface
+  - mehrere verschiebbare Fenster
+- Fußspuren als Objekte in der Szene
