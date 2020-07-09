@@ -18,3 +18,4 @@
   - fast gar keine Interaktion
 - Interface
   - klickbare Hauptwörter in Beschreibungstexten
+- "Cutscenes" durch automatische Steuerung der Spielfigur
