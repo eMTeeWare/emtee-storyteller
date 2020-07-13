@@ -23,4 +23,14 @@
 # Wonderland
 - Interface
   - mehrere verschiebbare Fenster
+  - Objektübersichtsfenster
+  - Automatische Karte
+  - Parser
+    - find [item]
+    - goto [place]
+    - Nachfrage bei uneindeutigen Befehlen
 - Fußspuren als Objekte in der Szene
+- Punktezähler
+- Rätsellösung durch Veränderung der Eigenschaften der Spielfigur
+  - wachsen / schrumpfen / Hals verlängern / Kleidung ändern
+- verbrauchbare Inventargegenstände
