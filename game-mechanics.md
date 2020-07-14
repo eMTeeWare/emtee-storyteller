@@ -34,3 +34,4 @@
 - Rätsellösung durch Veränderung der Eigenschaften der Spielfigur
   - wachsen / schrumpfen / Hals verlängern / Kleidung ändern
 - verbrauchbare Inventargegenstände
+- Inventargegenstände haben verschiedene Gewichtsklassen
