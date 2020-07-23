@@ -1,6 +1,6 @@
 - Objects
 - Container
-- Properties / Values
+- Properties / Values / Tags
 - States
 - Events
 - Chapters
