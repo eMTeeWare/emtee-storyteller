@@ -41,3 +41,4 @@
   - Rätsel, für deren Lösung beide Figuren etwas gleichzeitig machen müssen
   - unterschiedliche Reaktionen auf Objekte / von NPCs
 - nicht benötigte Inventargegenstände sind entsorgbar
+- Hot-Spot-Marker
