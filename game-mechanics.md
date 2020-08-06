@@ -44,3 +44,10 @@
 - Hot-Spot-Marker
 - Schnellreisekarte
 - alle Spielfiguren teilen ihr Wissen
+
+# Personal Nightmare
+- Grafik-Adventure mit Text-Parser
+- Kompass-Rose zur Navigation zeigt mögliche Richtungen an
+- Zeitlimit
+- Zeit läuft eigenständig weiter
+- mehrere Dinge geschehen gleichzeitig, je nach Aufenthaltsort der Spielfigur bekommt man andere Sachen mit
