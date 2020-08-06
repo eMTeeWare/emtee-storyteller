@@ -43,3 +43,4 @@
 - nicht benötigte Inventargegenstände sind entsorgbar
 - Hot-Spot-Marker
 - Schnellreisekarte
+- alle Spielfiguren teilen ihr Wissen
